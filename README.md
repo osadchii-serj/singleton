@@ -9,4 +9,4 @@
 - client_code - запуск программы
 
 
-![Image alt](https://github.com/osadchii-serj/raw/main/singleton/svg/singleton.svg)
+![Image alt](https://github.com/osadchii-serj/singleton/raw/main/svg/singleton.svg)
